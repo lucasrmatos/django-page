@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c03aecd-a360-4304-8220-fe82170f1ca5" name="Default Changelist" comment="" />
+    <list default="true" id="4c03aecd-a360-4304-8220-fe82170f1ca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a576Yrm8JipnffpyKkXtDzJ0vN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,6 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/projectpages2/pages" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -40,9 +47,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586013430494">
+    <state x="275" y="22" key="#Notifications" timestamp="1586035902537">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="374" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586013430494" />
+    <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1586035902537" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586036049095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586036049095" />
+    <state x="374" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1586035855188">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586035855188" />
+    <state x="487" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586036202804">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1586036202804" />
   </component>
 </project>
